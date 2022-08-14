@@ -141,6 +141,11 @@
         margin-left: 5px;
     }
 }
+@media screen and (max-width:400px) {
+    #navbar li{
+        font-size:x-small;
+    }
+}
 #navbar li a{
     color: white;
     text-decoration: none;
