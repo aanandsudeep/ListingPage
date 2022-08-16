@@ -144,6 +144,9 @@
 @media screen and (max-width:400px) {
     #navbar li{
         font-size:x-small;
+        margin-left: 2px;
+        font-weight: lighter;
+        
     }
 }
 @media screen and (max-width:410px) {
@@ -154,11 +157,6 @@
 #navbar li a{
     color: white;
     text-decoration: none;
-}
-@media screen and (max-width:400px) {
-    #navbar li a{
-        margin-left: 0px;
-    }
 }
 #navbar{
     background-color: rgb(61, 61, 184);
